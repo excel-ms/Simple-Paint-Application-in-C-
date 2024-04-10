@@ -5,9 +5,8 @@ Let's understand the Mini Paint Application:
 
 <img src="https://github.com/excel-ms/Simple-Paint-Application-in-C-/blob/main/image1.png?raw=true">
 
-### Building
-
-      using System;
+```bash
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 
@@ -136,7 +135,7 @@ namespace MiniPaint
         }
     }
 }
-
+```
 
 **NOTE**: See [README.win32](README.win32) for instructions how to build
           on Windows with Microsoft Visual Studio.
