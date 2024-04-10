@@ -137,5 +137,8 @@ namespace MiniPaint
 }
 ```
 
-**NOTE**: See [README.win32](README.win32) for instructions how to build
-          on Windows with Microsoft Visual Studio.
+Final Preview:
+
+<img src="https://github.com/excel-ms/Simple-Paint-Application-in-C-/blob/main/image2.png?raw=true">
+
+<img src="https://github.com/excel-ms/Simple-Paint-Application-in-C-/blob/main/image3.png?raw=true">
