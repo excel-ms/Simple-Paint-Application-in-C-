@@ -139,6 +139,6 @@ namespace MiniPaint
 
 Final Preview:
 
-<img src="https://github.com/excel-ms/Simple-Paint-Application-in-C-/blob/main/image2.png?raw=true">
+<img src="https://github.com/excel-ms/Simple-Paint-Application-in-C-/blob/main/Image2.png?raw=true">
 
 <img src="https://github.com/excel-ms/Simple-Paint-Application-in-C-/blob/main/image3.png?raw=true">
