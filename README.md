@@ -1,1 +1,2 @@
-# WinFormsAppPrint
+#Windows Forms Application Printing Text Files
+The article describes the source code of the C# Windows Forms application for printing text files. The functionality of the application includes selecting a file, printer, setting the parameters of the printed page, previewing the print, changing the appearance and color of the font. If your Windows system does not have printers installed, you can print to a pdf file.
